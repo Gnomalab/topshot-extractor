@@ -1,7 +1,9 @@
 # TopShot
 
 ### Experimental Smart Frame Extractor for 3DGS & Photogrammetry
-
+<p align="center">
+  <img src="assets/topshot-demo.gif" width="900">
+</p>
 **by Gnomalab Studio 2026 — https://www.gnomalab.es**
 
 ---
