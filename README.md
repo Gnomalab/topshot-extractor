@@ -1,6 +1,6 @@
-# TopShot
-
-### Experimental Smart Frame Extractor for 3DGS & Photogrammetry
+# TopShot  
+### Experimental Smart Frame Extractor for 3DGS & Photogrammetry  
+**Intelligent dataset pre-curation for spatial reconstruction workflows.**
 <p align="center">
   <img src="assets/topshot-demo.gif" width="900">
 </p>
